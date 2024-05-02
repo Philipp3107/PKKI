@@ -42,6 +42,7 @@
 		65BCDE322BE37D9100C0E9AF = {
 			isa = PBXGroup;
 			children = (
+				65BCDE452BE37D9A00C0E9AF /* README.md */,
 				65BCDE3D2BE37D9100C0E9AF /* PKKI */,
 				65BCDE3C2BE37D9100C0E9AF /* Products */,
 			);
@@ -59,7 +60,6 @@
 			isa = PBXGroup;
 			children = (
 				65BCDE3E2BE37D9100C0E9AF /* main.c */,
-				65BCDE452BE37D9A00C0E9AF /* README.md */,
 			);
 			path = PKKI;
 			sourceTree = "<group>";
